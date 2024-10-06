@@ -10,5 +10,5 @@ void main()
             sum+=rem
             n=n/10;
         }
-    printf("THE SUM OF THE DIGITS IS =%d",sum);
+    printf("THE SUM OF THE DIGITS OF A GIVEN NUMBER IS =%d",sum);
 }
