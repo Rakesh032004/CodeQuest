@@ -7,7 +7,7 @@ void main()
     while(n!=0)
         {
             rem=n%10;
-            sum+=rem
+            sum+=rem;   
             n=n/10;
         }
     printf("THE SUM OF THE DIGITS OF A GIVEN NUMBER IS =%d",sum);
